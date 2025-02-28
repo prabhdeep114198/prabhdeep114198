@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://www.dreamstime.com/stock-footage-programming-coding-programmer-laptop-working-animation-video104762817" /> </p>
 
-- 🔭 I’m currently working on **Atm simulation machine**
+- 🔭 I’m currently working on **Dataluxe**
 
 - 🌱 I’m currently learning **Bootstrap, Fullstack**
 
