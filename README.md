@@ -5,11 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=prabhdeep114198&label=Profile%20views&color=0e75b6&style=flat" alt="prabhdeep114198" />
 </p>
 
-<img align="right" src="https://www.dreamstime.com/stock-footage-programming-coding-programmer-laptop-working-animation-video104762817" alt="Coding GIF" width="400" />
 
 ### 🔭 Projects I'm Working On:
-- **Dataluxe** - *(Brief description here)*
-- **DermaSense** - *(Brief description here)*
+- **Dataluxe** - 
+- **DermaSense** - 
 
 ### 🌱 I’m currently exploring:
 - **AI/ML**  
