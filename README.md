@@ -1,14 +1,13 @@
-<h1 align="center">Hi 👋, I'm Prabhdeep Singh</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Prabhdeep Singh</h1>  
+<h3 align="center">A Passionate Full-Stack Developer from India</h3>  
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=prabhdeep114198&label=Profile%20views&color=0e75b6&style=flat" alt="prabhdeep114198" />
 </p>
 
-
 ### 🔭 Projects I'm Working On:
-- **Dataluxe** - 
-- **DermaSense** - 
+- **Dataluxe** -  
+- **DermaSense** -  
 
 ### 🌱 I’m currently exploring:
 - **AI/ML**  
